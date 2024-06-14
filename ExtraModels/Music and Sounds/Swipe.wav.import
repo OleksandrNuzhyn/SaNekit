@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://covn3hda8mhrd"
+path="res://.godot/imported/Swipe.wav-5e184e3a220abac979e26b8f9fb32f8f.sample"
+
+[deps]
+
+source_file="res://ExtraModels/Music and Sounds/Swipe.wav"
+dest_files=["res://.godot/imported/Swipe.wav-5e184e3a220abac979e26b8f9fb32f8f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
